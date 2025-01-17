@@ -3,13 +3,15 @@ Identification of Maize Seed Vigor under Different Accelerated Aging Times Using
 ### Item Abstract 😀
 The Multi-head attention convolutional sequence to sequence (MAC-seq2seq) model is composed of two parts, an encoder and a decoder, which are primarily used to convert original spectral sequences into reconstructed spectral sequences
 
-### Key Features 😛
+### Key Features :pencil2:
 The specific contributions of this study are as follows:
 1. A convolutional encoder-decoder model based on a multi-head attention mechanism is proposed to reconstruct spectra from the original spectra.
 2. The functionality of the MAC-seq2seq model is extended to extract deep spectral features. Deep spectral features plus subspace discrimination can detect maize seed aging time and vigor. This method enables rapid model training and optimization on small datasets.
 3. Provides corresponding MATLAB code implementation, making it easy to apply to practical deep learning model optimization.
 
-### Tech Stack 😍
+### Dataset Introduction :black_nib:
+Train.xlsx & Test.xlsx include 
+
 
 
 ![Documentation](https://img.shields.io/badge/documentation-Deep_Learning-blue)
