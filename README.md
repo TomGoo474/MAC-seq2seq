@@ -9,9 +9,10 @@ The specific contributions of this study are as follows:
 2. The functionality of the MAC-seq2seq model is extended to extract deep spectral features. Deep spectral features plus subspace discrimination can detect maize seed aging time and vigor. This method enables rapid model training and optimization on small datasets.
 3. Provides corresponding MATLAB code implementation, making it easy to apply to practical deep learning model optimization.
 
+ ![experiment flow diagram](https://github.com/TomGoo474/MAC-seq2seq/blob/main/img1.png)
 ### Dataset Introduction :black_nib:
 Train.xlsx & Test.xlsx include 
- ![word](https://github.com/TomGoo474/MAC-seq2seq/blob/main/%E5%9B%BE%E7%89%871.png)
+ ![excel](https://github.com/TomGoo474/MAC-seq2seq/blob/main/%E5%9B%BE%E7%89%871.png)
 
 ![Documentation](https://img.shields.io/badge/documentation-Deep_Learning-blue)
 ![Documentation](https://img.shields.io/badge/documentation-Reconstruction_Spectra-orange)
